@@ -1,0 +1,3 @@
+The make:service command generates a new service class.
+
+<info>php %command.full_name% Hello</info>
