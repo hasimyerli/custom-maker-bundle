@@ -14,7 +14,7 @@ created: src/Service/Hello.php
 Service class created.
 ```
 `make:service --help`
-```
+```console
 $ php bin/console make:service --help
 Description:
   Creates a new service class.
