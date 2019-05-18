@@ -7,8 +7,11 @@
 
 ## Getting Started
 ### Usage
+
+***Review the directory 'src/Maker'.***
+
 `make:service`
-```console
+```bash
 $ php bin/console make:service Hello
 created: src/Service/Hello.php
 Service class created.
