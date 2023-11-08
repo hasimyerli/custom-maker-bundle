@@ -46,5 +46,3 @@ Help:
 
 ```
 Like this example, you can produce different solutions.
-
-**Blog:** https://hasimyerli.com/blog/symfony-4-maker-bundle-ozellestirme
